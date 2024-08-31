@@ -1,8 +1,1 @@
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwNzEkOgjAAQNG7dKuJCIrRxIVWJK2M4lDZlbkqBYqAaLy7
-7P7i5X9BG4uaFRyspmNQ0v5Z0AisQNzjLsyXUiBbbQCRih4a
-MyD++ATLPkHMZrgeWo11SzXywXioRnzbhtxl9t2VTEVagzGo
-WcrpqxHxsDS1G0QuzKxGdhV/SvawNfwbmYuH11fI3JxpecqT
-LFo0FYw0OMIdyjZW2FViQm1DuWYfJ2XaZcYP19euT/Rjcowk
-cpffs4PuOY4Avz9HBUQJ
------END ARGO VPN BRIDGE BLOCK-----
+https://dl4.cdnfo.info/Series/Outlander/S01/Outlander.S01E01.10bit.x265.1080p.BluRay.Joy.mkv
